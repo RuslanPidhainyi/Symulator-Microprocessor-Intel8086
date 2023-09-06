@@ -98,7 +98,7 @@
             </ComboBox>
 
 
-            <Label Content="Seccond value" Background="Pink" Foreground="Black" FontWeight="Bold"
+            <Label Content="Second value" Background="Pink" Foreground="Black" FontWeight="Bold"
                 HorizontalAlignment="Left" VerticalAlignment="Top" 
                 Margin="419,234,0,0" Width="92" Height="31"/>
             <ComboBox x:Name="r2" HorizontalAlignment="Left" Margin="511,233,0,0"
