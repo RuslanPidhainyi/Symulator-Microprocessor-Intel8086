@@ -13,5 +13,6 @@
 <a name="aboutaapp"></a>
 ## 2. About a App 📟
 The simulator is based on 4 registers capable of storing values from 0-9 and A-F which means that they can store values in the hexadecimal system.
+
 https://github.com/RuslanPidhainyi/Symulator-Microprocessor-Intel8086/assets/136593314/da222dc6-cc0a-4673-90e1-0f3b809530b4
 
